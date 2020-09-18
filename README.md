@@ -1,4 +1,5 @@
 # MERN-web
+Node.js, Express, MongoDB, React, Redux
 
 Backend - API overview generated from Postman:
 \
